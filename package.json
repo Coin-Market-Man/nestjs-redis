@@ -1,5 +1,5 @@
 {
-  "name": "@liaoliaots/root",
+  "name": "@coin-market-man/root",
   "version": "10",
   "description": "Redis(ioredis) module for Nest framework (node.js).",
   "author": "LiaoLiao <yxiaosong002@gmail.com>",
@@ -55,7 +55,7 @@
     "rxjs": "7.8.1",
     "ts-jest": "29.0.3",
     "tsc-alias": "1.8.2",
-    "typescript": "5.1.6"
+    "typescript": "4.9.4"
   },
   "engines": {
     "node": ">= 16",
@@ -66,12 +66,12 @@
       "@commitlint/config-conventional"
     ]
   },
-  "homepage": "https://github.com/liaoliaots/nestjs-redis#readme",
+  "homepage": "https://github.com/Coin-Market-Man/nestjs-redis#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liaoliaots/nestjs-redis.git"
+    "url": "git+https://github.com/Coin-Market-Man/nestjs-redis.git"
   },
   "bugs": {
-    "url": "https://github.com/liaoliaots/nestjs-redis/issues"
+    "url": "https://github.com/Coin-Market-Man/nestjs-redis/issues"
   }
 }
